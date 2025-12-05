@@ -90,7 +90,7 @@ subscribers Table
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/tech-upnext-ai-agent.git  
+git clone https://github.com/V-NM/tech-upnext-ai-agent 
 cd tech-upnext 
 
 ---
